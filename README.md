@@ -1,7 +1,3 @@
-Below is a professional, clean, and well-aligned `README.md` template, tailored to your project, your background, and what you’ve achieved so far:
-
-***
-
 # Companies Directory
 
 A fully responsive, interactive companies directory built with React and Material UI. This project features real data filtering, searching, sorting, pagination, and a modern design layout optimized for usability and engagement.
