@@ -87,8 +87,3 @@ I am a recent computer science graduate passionate about practical web developme
 ## License
 
 This project is open-source and free to use for learning and demonstration purposes.
-
-***
-
-You can copy and paste this into your `README.md` file.  
-Feel free to further personalize the “About” section or add deployment details if you put the app online. Let me know if you want to add screenshots, usage GIFs, or a demo link!
