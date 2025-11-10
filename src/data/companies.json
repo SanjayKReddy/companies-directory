@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Tech Solutions",
+    "location": "New York",
+    "industry": "Information Technology"
+  },
+  {
+    "id": 2,
+    "name": "Health Corp",
+    "location": "San Francisco",
+    "industry": "Healthcare"
+  },
+  {
+    "id": 3,
+    "name": "Edu World",
+    "location": "Boston",
+    "industry": "Education"
+  },
+  {
+    "id": 4,
+    "name": "AutoDrive",
+    "location": "Detroit",
+    "industry": "Automotive"
+  }
+]
