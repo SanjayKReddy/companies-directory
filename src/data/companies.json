@@ -1,26 +1,182 @@
 [
   {
     "id": 1,
-    "name": "Tech Solutions",
-    "location": "New York",
-    "industry": "Information Technology"
+    "name": "Tata Consultancy Services",
+    "location": "Mumbai, India",
+    "industry": "IT Services"
   },
   {
     "id": 2,
-    "name": "Health Corp",
-    "location": "San Francisco",
-    "industry": "Healthcare"
+    "name": "Reliance Industries",
+    "location": "Mumbai, India",
+    "industry": "Conglomerate"
   },
   {
     "id": 3,
-    "name": "Edu World",
-    "location": "Boston",
-    "industry": "Education"
+    "name": "Infosys",
+    "location": "Bengaluru, India",
+    "industry": "IT Services"
   },
   {
     "id": 4,
+    "name": "Tech Solutions",
+    "location": "New York, USA",
+    "industry": "Information Technology"
+  },
+  {
+    "id": 5,
+    "name": "Health Corp",
+    "location": "San Francisco, USA",
+    "industry": "Healthcare"
+  },
+  {
+    "id": 6,
+    "name": "Edu World",
+    "location": "Boston, USA",
+    "industry": "Education"
+  },
+  {
+    "id": 7,
+    "name": "Global Finance",
+    "location": "London, UK",
+    "industry": "Finance"
+  },
+  {
+    "id": 8,
+    "name": "GreenTech",
+    "location": "Berlin, Germany",
+    "industry": "Environmental"
+  },
+  {
+    "id": 9,
+    "name": "Media Minds",
+    "location": "Los Angeles, USA",
+    "industry": "Media"
+  },
+  {
+    "id": 10,
+    "name": "Smart Retail",
+    "location": "Tokyo, Japan",
+    "industry": "Retail"
+  },
+  {
+    "id": 11,
+    "name": "Logi Logistics",
+    "location": "Toronto, Canada",
+    "industry": "Logistics"
+  },
+  {
+    "id": 12,
+    "name": "Innovatech",
+    "location": "Seattle, USA",
+    "industry": "Technology"
+  },
+  {
+    "id": 13,
+    "name": "HealthFirst",
+    "location": "Chicago, USA",
+    "industry": "Healthcare"
+  },
+  {
+    "id": 14,
+    "name": "Urban Developers",
+    "location": "Dubai, UAE",
+    "industry": "Real Estate"
+  },
+  {
+    "id": 15,
+    "name": "CyberSafe",
+    "location": "Tel Aviv, Israel",
+    "industry": "Cybersecurity"
+  },
+  {
+    "id": 16,
+    "name": "EduCare",
+    "location": "Sydney, Australia",
+    "industry": "Education"
+  },
+  {
+    "id": 17,
+    "name": "Blue Ocean Shipping",
+    "location": "Singapore",
+    "industry": "Shipping"
+  },
+  {
+    "id": 18,
+    "name": "FinServe",
+    "location": "Frankfurt, Germany",
+    "industry": "Finance"
+  },
+  {
+    "id": 19,
     "name": "AutoDrive",
-    "location": "Detroit",
+    "location": "Detroit, USA",
     "industry": "Automotive"
+  },
+  {
+    "id": 20,
+    "name": "TechForward",
+    "location": "San Jose, USA",
+    "industry": "Information Technology"
+  },
+  {
+    "id": 21,
+    "name": "Green Energy Co",
+    "location": "Oslo, Norway",
+    "industry": "Energy"
+  },
+  {
+    "id": 22,
+    "name": "Foodies",
+    "location": "Paris, France",
+    "industry": "Food & Beverage"
+  },
+  {
+    "id": 23,
+    "name": "Urban Mobility",
+    "location": "Amsterdam, Netherlands",
+    "industry": "Transportation"
+  },
+  {
+    "id": 24,
+    "name": "Digital Hub",
+    "location": "San Francisco, USA",
+    "industry": "Technology"
+  },
+  {
+    "id": 25,
+    "name": "AeroSpaceX",
+    "location": "Houston, USA",
+    "industry": "Aerospace"
+  },
+  {
+    "id": 26,
+    "name": "Bright Light Media",
+    "location": "London, UK",
+    "industry": "Media"
+  },
+  {
+    "id": 27,
+    "name": "SafeBank",
+    "location": "Zurich, Switzerland",
+    "industry": "Finance"
+  },
+  {
+    "id": 28,
+    "name": "NextGen Tech",
+    "location": "Seoul, South Korea",
+    "industry": "Technology"
+  },
+  {
+    "id": 29,
+    "name": "EcoBuild",
+    "location": "Vancouver, Canada",
+    "industry": "Construction"
+  },
+  {
+    "id": 30,
+    "name": "Connect Communications",
+    "location": "New York, USA",
+    "industry": "Telecommunications"
   }
 ]
