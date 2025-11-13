@@ -80,4 +80,4 @@ companies-directory/
 
 ## About The Author
 
-I am a recent computer science graduate passionate about practical web development, fitness technology, and UI/UX design. This project is a milestone in my development journey, focusing on component-driven architecture, design best practices, and progressive enhancement.
+I am a recent computer science graduate passionate about practical web development, modern technology, and UI/UX design. This project is a milestone in my development journey, focusing on component-driven architecture, design best practices, and progressive enhancement.
